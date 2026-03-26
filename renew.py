@@ -44,7 +44,7 @@ TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID") or ""
 
 # 面板上报配置
 PANEL_URL = "https://upp.bcbc.pp.ua/api/callback"
-SERVER_NAME = "xserver" # 面板里配置的关键词
+SERVER_NAME = "xserver2" # 面板里配置的关键词
 
 # =====================================================================
 #                        Telegram 推送模块
