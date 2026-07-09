@@ -43,7 +43,7 @@ TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN") or ""
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID") or ""
 
 # 面板上报配置
-PANEL_URL = "https://upp.bcbc.pp.ua/api/callback"
+PANEL_URL = "https://upp.bcbc.pp.ua/api/callback?token=d9acade9bee8e30f1d0787fd27de2a7d88adf3b97fe7481d3d686f03c2204d2bc276edffa0815a59d60389089a854b3b8c1d01aa65de397793465eedafc2a30c"
 SERVER_NAME = "xserver2" # 面板里配置的关键词
 
 # =====================================================================
